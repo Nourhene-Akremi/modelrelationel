@@ -1,0 +1,6 @@
+realtional models 
+Hotel(hotel-id,hotel-name,Type-id)
+Type(type-id,type-Name)
+Room(Room-id,Floor,Hotel-id,Category-id)
+Category(Category-id,category-Name,price,Beds_number)
+Employee(Employee-id,Employee-name,Employee_speciality)
